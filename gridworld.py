@@ -1,6 +1,5 @@
 from config import *
 import random
-
 # 'S': start
 # 'G': goal
 # ' ': empty cell
