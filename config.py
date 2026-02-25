@@ -6,5 +6,3 @@ G_LEFT = 3
 G_STAY = 4
 
 
-
-
